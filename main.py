@@ -26,8 +26,8 @@ if if_usernames == "y":
 
 # NEEDED TO SOLVE THE SHITTY "KAPTCHA"S,
 # VISIT https://truecaptcha.org/ TO GET THE KEY & USER ID
-api_key = "FZBumZlZ8C3i4ZDCUcpF" 
-api_uid = "trioptimum.rab64@simplelogin.com"
+api_key = "" 
+api_uid = ""
 
 api_url = "https://api.apitruecaptcha.org/one/gettext"
 
